@@ -1,9 +1,4 @@
-/*
- * File:   main.c
- * Author: BM
- *
- * Created on 22 Ekim 2014 Çarşamba, 12:58
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
